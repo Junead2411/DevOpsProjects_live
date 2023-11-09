@@ -1,1 +1,17 @@
 Project1: Details and procedure
+
+Steps:
+1. Buy a domain name
+Hosting site: https://cp1.biz.nf/domain-manager/#subdomains
+Client ID: 2062650
+Pswd: $heri$$jerochaaar
+Created Webpage name: http://devbros.atwebpages.com/
+
+Step2: Spin up ubuntu server and install nginx
+Step3: Connect windows with ubuntu using psftp
+Command is as below,
+# psftp -i "D:\Users\OneDrive - Southeast Missouri State University\DevOps\Default_keypair.ppk" ubuntu@52.91.181.68
+# put index.html
+## --> index.html copied to the pwd of ubuntu server
+
+Step 4: 
