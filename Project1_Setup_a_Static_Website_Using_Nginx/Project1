@@ -15,3 +15,16 @@ Command is as below,
 ## --> index.html copied to the pwd of ubuntu server
 
 Step 4: 
+======================================
+Pre-requisites:
+1. AWS account with access to EC2 policy
+2. Web application sample
+3. Putty private key for Windows EC2 login and PEM file for SSH (Linux or MAC) login
+4. A free web hosting domain from biz.nf
+
+STEPS:
+1. Login to biz.nf and create a domain with the following steps,
+  Go to Hosting Tools --> Domain Manager tab
+  Click on create free subdomain and enter the subdomain name of your choice and select the domain name
+  Then click create to create a domain name.
+  Created domain name is ==> https://devbros.atwebpages.com/
